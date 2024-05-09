@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.AssemblyInfo.cs
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.sourcelink.json
+C:\Users\user\Desktop\first_blok\bin\Debug\net8.0\first_blok.exe
+C:\Users\user\Desktop\first_blok\bin\Debug\net8.0\first_blok.deps.json
+C:\Users\user\Desktop\first_blok\bin\Debug\net8.0\first_blok.runtimeconfig.json
+C:\Users\user\Desktop\first_blok\bin\Debug\net8.0\first_blok.dll
+C:\Users\user\Desktop\first_blok\bin\Debug\net8.0\first_blok.pdb
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.dll
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\refint\first_blok.dll
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.pdb
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\first_blok.genruntimeconfig.cache
+C:\Users\user\Desktop\first_blok\obj\Debug\net8.0\ref\first_blok.dll
